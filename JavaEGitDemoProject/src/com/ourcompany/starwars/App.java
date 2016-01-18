@@ -6,5 +6,8 @@ public class App {
 		System.out.println("Hi");
 		//Add code here
 	}
+	void m1(){
+		//TODO
+	}
 
 }
